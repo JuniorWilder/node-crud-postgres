@@ -1,0 +1,18 @@
+GET http://localhost:5000/produtos 
+
+###
+
+GET http://localhost:5000/produto/666
+
+###
+
+POST http://localhost:5000/produto
+
+###
+
+PUT  http://localhost:5000/produto/444
+
+###
+
+DELETE http://localhost:5000/produto/:id
+
