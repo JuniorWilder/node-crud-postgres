@@ -1,7 +1,10 @@
 import fastify from 'fastify';
+import './db/db.js'
 
 
 const server = fastify()
+
+
 
 const host = 'localhost' //127.0.0.1
 const port = 5000

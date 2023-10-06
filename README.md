@@ -20,3 +20,9 @@
 10 - Criar os GET, POST e DELETE
 
 11 - Criar o arquivo routes.http 
+
+12 - Criar a pasta /db e dentro o arquivo /db.js
+
+13 - Criar o arquivo .env (na raiz)
+
+14 - npm i dotenv
